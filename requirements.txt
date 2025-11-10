@@ -1,0 +1,15 @@
+streamlit
+transformers
+torch
+sentencepiece
+nltk
+spacy
+gensim
+scikit-learn
+sumy
+beautifulsoup4
+wordcloud
+matplotlib
+pandas
+vaderSentiment
+pdfplumber
